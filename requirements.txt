@@ -33,3 +33,4 @@ huggingface_hub
 langgraph
 streamlit
 transformers
+PyPDF2
